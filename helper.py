@@ -1,2 +1,2 @@
 def greeting(msg):
-    print(msg + " wow git commit please")
+    print(msg + " and I resolved the conflict")
